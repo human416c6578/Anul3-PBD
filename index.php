@@ -84,7 +84,7 @@
             </div>
 
         </div>
-        <div class="xl:6/12 w-2/12 relative flex items-center justify-center p-4">
+        <div class="xl:2/12 w-8/12 relative flex items-center justify-center p-4">
             <form id="addBookForm" class="max-w-lg mx-auto bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
                 <h2 class="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-6">Add Book</h2>
                 <div class="mb-4">
