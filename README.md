@@ -71,19 +71,19 @@ SELECT id, Name FROM Authors WHERE Name LIKE Author_name;
 ---
 
 
-### **Pagini și Imagini**
+### **Pagini**
 
 
-#### **Imagini Personalizate:**
+#### **Imagini:**
 
 - **Tabel Cărți:**
-
+[![Adăugare Carte](images/books.png)](images/books.png)
 - **Formular Adăugare Carte:**
-
+[![Adăugare Carte](images/form_books.png)](images/form_books.png)
 - **Pagina Autori:**
-
+[![Adăugare Carte](images/authors.png)](images/authors.png)
 - **Formular Adăugare Autor:**
-
+[![Adăugare Carte](images/form_authors.png)](images/form_authors.png)
 
 
 ---
