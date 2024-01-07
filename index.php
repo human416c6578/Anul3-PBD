@@ -10,8 +10,8 @@
 <!-- NavBar -->
 <nav class="bg-gray-900 dark:bg-gray-900 border-gray-200">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-        <a href="/panel" class="flex items-center">
-            <img src="img/play.svg" class="h-8 mr-3" alt="LaLeagane" />
+        <a href="/" class="flex items-center">
+            <img src="img/play.svg" class="h-8 mr-3" alt="Book Store Logo" />
             <span class="self-center text-2xl font-semibold text-white dark:text-white whitespace-nowrap">Book Store</span>
         </a>
         <div class="flex md:order-2">
