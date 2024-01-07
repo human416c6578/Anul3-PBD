@@ -51,20 +51,20 @@ DELETE FROM Books WHERE id = Carte_Id;
 DELETE FROM Authors WHERE id = Autor_Id;
 ```
 
-#### **Vizualizare Toate Cărțile**
+#### **Vizualizare Cărți**
 
 ```sql
--- Selectare toate cărțile
+-- Selectare cărți
 SELECT b.id AS BookId, b.Title as BookTitle, a.Name as BookAuthor, b.Stock as BookStock 
             FROM Books b 
             JOIN Authors a ON b.AuthorId = a.id 
             WHERE b.Title LIKE Book_Title AND a.Name LIKE Author_Name;
 ```
 
-#### **Vizualizare Toți Autorii**
+#### **Vizualizare Autori**
 
 ```sql
--- Selectare toți autorii
+-- Selectare autori
 SELECT id, Name FROM Authors WHERE Name LIKE Author_name;
 ```
 
